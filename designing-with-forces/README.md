@@ -1,4 +1,4 @@
-# Designing with Forces
+# Inverted (Etiological?) Design Process
 
 This is an exploration of the design process Christopher Alexander outlines in *Notes on the Synthesis of Form*.
 
