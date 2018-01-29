@@ -15,7 +15,7 @@ This is an exploration of the design process Christopher Alexander outlines in *
 (Adapted from diagrams within *Notes on the Synthesis of Form)*. These diagrams are very loose and WIP, just meant to help me think.)
 
 #### Designing with specifications (easy, bad)
-![Specs](/specs.jpg?raw=true "Specs")
+![Specs](/designing-with-forces/specs.jpg?raw=true "Specs")
 
 #### Designing with forces (more difficult, but better)
-![Forces](/forces.jpg?raw=true "Forces")
+![Forces](/designing-with-forces/forces.jpg?raw=true "Forces")
